@@ -1,7 +1,21 @@
 # Wireshark Packet Capture Lab – Home Lab
 
+<br>
+
+<h2>Description</h2>
 This project demonstrates network protocol analysis and troubleshooting in a Windows domain home lab using Wireshark.  
 The lab focuses on Kerberos authentication, SMB file access, and ICMP connectivity testing.
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Virtual Box</b> 
+
+<h2>Environments Used </h2>
+
+- <b>Windows 2019 Server</b>
+- <b>Windows 10 Pro (Client)</b>
+- <b>Windows 10 Pro (Wireshark)</b>
 
 
 ## 1️⃣ Kerberos Authentication Error and Resolution
